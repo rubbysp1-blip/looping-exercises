@@ -8,7 +8,7 @@ public class WhileLoop {
 
         while(numberOfPrints < 5){
             System.out.println("I love Java");
-            numberOfPrints += 1;
+            numberOfPrints++;
             //break;
         }
 
